@@ -12,6 +12,3 @@
 [pancakes](./recipes/pancakes.md)
 [papanasi](./recipes/papanasi.md)
 
-## git sucks
-
-haha
