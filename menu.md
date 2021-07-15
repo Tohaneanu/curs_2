@@ -1,7 +1,8 @@
 # menu
 
 [pizza](./recipes.pizza.md)
-[noodle soup] (./recipes/noodle-soup.md)
+[noodle-soup] (./recipes/noodle-soup.md)
+[burger](./recipes/burger.md)
 ## drinks
 
 [coke](./drinks/coke.md)
